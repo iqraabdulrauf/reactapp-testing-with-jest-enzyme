@@ -1,9 +1,4 @@
 import Counter from './Counter';
-
-
-// for every test file you want to write test for
-
-//- shallow - will create the instance of ur component
 import {
   shallow
 } from 'enzyme';
